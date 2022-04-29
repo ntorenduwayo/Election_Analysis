@@ -8,7 +8,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 5.The percentage of votes from each county out of the total count</br>
 6.The county with the highest turnout</br>
 ## Results
-The analysis for the election show that:
+The analysis for the election show that: (See the table below)
 - There were 369,711 votes cast in the election.
 - The candidates were:
   - Charles Casper Stockham who got 85,213 votes or 23.0% of all votes cast.
@@ -20,6 +20,10 @@ The analysis for the election show that:
   - 10.5% 38,855 or 10.5% in Jefferson
   - 306,055 or 82.8% in Denver
   - 6.7% 24,801 or 6.7% in Arapahoe
+
+#### Table 1: Analysis results
+![Analysis Results](https://user-images.githubusercontent.com/34750363/165887586-7db5d1b4-1a12-44f8-bc8e-172a89626c75.png)
+
 ## Summary
 The election winner was Diana DeGette with 73.8% of the votes. The county of Denver had the largest turnout of about 306,055 votes cast or 82.8% of all votes.
 ## Resources
